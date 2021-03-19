@@ -4,3 +4,7 @@
 * [abseil|google](https://github.com/abseil/abseil-cpp) The repository contains the Abseil C++ library code. Abseil is an open-source collection of C++ code (compliant to C++11) designed to augment the C++ standard library.
 ## 包管理
 * vcpkg & conan  https://github.com/deepkenlau/vcpkg-vs-conan
+
+## 统计与监控
+* [opentelemetry|CNCF](https://github.com/open-telemetry) An observability framework for cloud-native software.
+* jaeger
