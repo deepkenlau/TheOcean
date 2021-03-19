@@ -4,6 +4,7 @@
 * [abseil|google](https://github.com/abseil/abseil-cpp) The repository contains the Abseil C++ library code. Abseil is an open-source collection of C++ code (compliant to C++11) designed to augment the C++ standard library.
 * [nlohmann / json]
 * actor-framework
+* [concurrentqueue](https://github.com/cameron314/concurrentqueue) A fast multi-producer, multi-consumer lock-free concurrent queue for C++11
 ## 包管理
 * vcpkg & conan  https://github.com/deepkenlau/vcpkg-vs-conan
 
